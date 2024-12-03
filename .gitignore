@@ -1,0 +1,6 @@
+*.csv
+
+.vscode
+.idea
+
+logs
