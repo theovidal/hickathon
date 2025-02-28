@@ -1,14 +1,17 @@
 <div align="center">
-    <img src="assets/hiparis.jpg" alt="Hi! Paris Logo">
-    <img src="assets/waterai.png" alt="water.ai logo">
+    <img src="assets/waterai.png" alt="water.ai logo" width="300px">
     <h1>Submission repository for Hi!ckathon 5</h1>
+    <h3>💧 Using ML to predict water shortages during summer 🚱</h3>
+    <img src="assets/hiparis.jpg" alt="Hi! Paris Logo" width="250px">
 </div>
 
 # Original subject
 
-_"The goal is to build an AI model that can predict the watertable/ground water levels of french piezometric stations, with a focus on the summer months. To build this model, you were given piezometric/watertable, weather, hydrology, water withdrawal and economic data.
+This subject was proposed by Hi! Paris for this edition of the Hi!ckathon:
 
-But beyond producing an AI model, the competition will ask you to realistically project your solution in a market / real-world context."_
+_"The goal is to build an AI model that can **predict the watertable/ground water** levels of french piezometric stations, with a focus on the **summer** months. To build this model, you were given piezometric/watertable, weather, hydrology, water withdrawal and economic data._
+
+_But beyond producing an AI model, the competition will ask you to **realistically project your solution in a market** / real-world context."_
 
 # Our deliverables
 
